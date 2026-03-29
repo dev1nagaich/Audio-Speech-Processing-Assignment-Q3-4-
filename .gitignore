@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Input data files (large, not part of codebase)
+ft_data.xlsx
+question4.xlsx
+uniques_words.txt
+
+# Logs
+task_output.log
+*.log

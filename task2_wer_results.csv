@@ -1,0 +1,7 @@
+Model,Standard WER,Lattice-WER,Delta,Lattice corrections,Fairness verdict
+Model H,0.0452,0.0452,0.0,0,Not penalized — delta=0
+Model i,0.0073,0.0073,0.0,0,Not penalized — delta=0
+Model k,0.1357,0.1357,0.0,0,Not penalized — delta=0
+Model l,0.1553,0.1553,0.0,0,Not penalized — delta=0
+Model m,0.291,0.291,0.0,0,Not penalized — delta=0
+Model n,0.1809,0.1809,0.0,0,Not penalized — delta=0
