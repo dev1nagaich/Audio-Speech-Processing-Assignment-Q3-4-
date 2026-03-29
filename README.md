@@ -118,7 +118,26 @@ The assignment asks for a Google Sheet with two columns:
 - unique word
 - classification (correct spelling / incorrect spelling)
 
-The file task1_spelling_classification.csv already matches this schema and can be directly uploaded/imported into Google Sheets.
+Important clarification:
+- uniques_words.txt is an input file and has only 1 column: word
+- task1_spelling_classification.csv is the required 2-column output: word, label
+
+The file task1_spelling_classification.csv already matches the submission schema and can be directly uploaded/imported into Google Sheets.
+
+## Required Files to Run
+
+These files must be present in the same folder before running task_complete.py:
+- task_complete.py
+- requirements.txt
+- uniques_words.txt
+- ft_data.xlsx
+- question4.xlsx
+
+Generated after run (not required beforehand):
+- task1_spelling_classification.csv
+- task1_statistics.csv
+- task2_wer_results.csv
+- RESULTS.md
 
 ## Data Access Note
 
